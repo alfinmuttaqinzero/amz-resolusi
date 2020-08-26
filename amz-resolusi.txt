@@ -1,4 +1,6 @@
 AMZ RESOLUSI 
 belajar bahasa inggris
-GitHub
-Git-Version Control
+belajar GitHub
+belajar Git-Version Control
+belajar basicTerminal usage
+belajar data structures & algorithms
